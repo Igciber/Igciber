@@ -19,6 +19,7 @@
 
 | Start here | Purpose |
 |---|---|
+| [GitHub Profile Homepage README](GITHUB-PROFILE-HOMEPAGE-README.md) | Ready-to-use content for the GitHub account homepage |
 | [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md) | One-page positioning for international opportunities |
 | [Project Catalog](PROJECTS.md) | 16 recruiter-ready project concepts by domain |
 | [Skills Evidence Matrix](SKILLS-EVIDENCE-MATRIX.md) | Skills mapped to evidence and target roles |
@@ -110,12 +111,13 @@ Public materials are intentionally sanitized and designed for professional revie
 
 ## Portuguese Summary
 
-Perfil voltado para oportunidades nacionais e internacionais em Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, SOC, AI Governance, Data Governance, Technology Architecture e Automation. O material público é defensivo, sanitizado e estruturado para validação por recrutadores.
+Perfil voltado para oportunidades nacionais e internacionais em Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, SOC, AI Governance, Data Governance, Technology Architecture e Automation. O material publico e defensivo, sanitizado e estruturado para validacao por recrutadores.
 
 ---
 
 ## Profile Documents
 
+- [GitHub Profile Homepage README](GITHUB-PROFILE-HOMEPAGE-README.md)
 - [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md)
 - [Project Catalog](PROJECTS.md)
 - [Skills Evidence Matrix](SKILLS-EVIDENCE-MATRIX.md)
