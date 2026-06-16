@@ -2,22 +2,30 @@
 
 **Cybersecurity | Security Architecture | Cloud Security | DevSecOps | IAM | AppSec | GRC | SOC | AI Security | AI Governance | Secure LLM/RAG | Secure MLOps | Data Governance | Technology Architecture | Automation**
 
-I am a technology and information security professional focused on connecting risk, architecture, governance and delivery. My work is centered on defensive security, enterprise architecture, cloud security, identity, secure software delivery, responsible AI and automation.
+I connect risk, architecture, governance and technology delivery through defensive security practices, enterprise-ready documentation, automation and responsible AI controls.
 
 Sou profissional de tecnologia e segurança da informação com foco em conectar risco, arquitetura, governança e entrega tecnológica. Atuo com segurança defensiva, arquitetura corporativa, cloud security, identidade, entrega segura, IA responsável e automação.
 
-## Recruiter Quick Validation
+## Recruiter Snapshot
 
-| Time | What to check | Evidence |
+| Question | Fast answer |
+| --- | --- |
+| What do I do? | Cybersecurity, architecture, governance, cloud, IAM, AppSec, AI security and automation |
+| What kind of evidence is here? | Public-safe portfolio structure, recruiter guides, role mapping and validation checklist |
+| What roles does this support? | Security Architect, Cloud Security, DevSecOps, IAM, AppSec, GRC, SOC, AI Governance and Technology Architecture |
+| Is it safe to review publicly? | Yes. Content is defensive, fictional/sanitized and free from confidential data or credentials |
+
+## 5-Minute Validation Path
+
+| Time | What to open | What to validate |
 | --- | --- | --- |
-| 30 sec | Professional positioning | Security, architecture, governance, AI and automation focus |
-| 1 min | Role alignment | Skills mapped to cybersecurity, cloud, IAM, AppSec, GRC and AI governance |
-| 2 min | Portfolio evidence | Defensive projects, templates, matrices, playbooks and architecture docs |
-| 1 min | Public-readiness | Sanitized examples, no confidential data, no credentials |
+| 30 sec | This README | Positioning and target domains |
+| 1 min | [Portfolio Summary](PORTFOLIO.md) | Skills mapped to portfolio evidence |
+| 1 min | [Recruiter Validation Guide](RECRUITER-VALIDATION.md) | Role fit and seniority signals |
+| 1 min | [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md) | Public-readiness and recruiter checklist |
+| 1 min | Pinned portfolio repository | Project READMEs, templates, matrices and defensive examples |
 
-## Portfolio Focus
-
-This profile supports recruiter and hiring manager validation for roles in:
+## Portfolio Evidence by Domain
 
 | Area | Evidence demonstrated |
 | --- | --- |
@@ -44,18 +52,8 @@ This profile supports recruiter and hiring manager validation for roles in:
 | GRC / Risk / Compliance | `08-grc-risk-compliance-dashboard` |
 | SOC / Incident Response | `07-soc-incident-response-playbooks`, `12-ai-secops-monitoring` |
 | AI Security / AI Governance | `09-ai-governance-responsible-ai`, `10-secure-llm-rag-architecture`, `11-ai-security-evaluation-framework` |
+| Secure MLOps | `13-secure-mlops-model-lifecycle` |
 | Data Governance / Automation | `15-data-governance-analytics`, `16-automation-python-powershell` |
-
-## Professional Context
-
-Experience connected to financial services, telecom, consulting, infrastructure, IAM, cloud, DevSecOps, AppSec, GRC and security architecture, including contexts related to:
-
-- Sinqia / BNP Paribas
-- Aquanima / Santander
-- Telefonica Vivo
-- Compass UOL
-
-All public materials are intentionally sanitized. They do not include confidential company information, credentials, tokens, private IPs, internal architecture or sensitive operational data.
 
 ## Seniority Signals
 
@@ -68,13 +66,16 @@ All public materials are intentionally sanitized. They do not include confidenti
 | AI security awareness | Ability to govern and secure LLM/RAG and model lifecycle scenarios |
 | Executive communication | Ability to explain technical risk clearly to non-technical stakeholders |
 
-## Recommended Recruiter Path
+## Professional Context
 
-1. Review this profile for role alignment.
-2. Open the portfolio repository when available.
-3. Validate 3 projects aligned to the target role.
-4. Check whether each project explains objective, business problem, scope, deliverables, frameworks and recruiter validation points.
-5. Confirm that the material is defensive, public-safe and free from confidential information.
+Experience connected to financial services, telecom, consulting, infrastructure, IAM, cloud, DevSecOps, AppSec, GRC and security architecture, including contexts related to:
+
+- Sinqia / BNP Paribas
+- Aquanima / Santander
+- Telefonica Vivo
+- Compass UOL
+
+Public materials are intentionally sanitized. They do not include confidential company information, credentials, tokens, private IPs, internal architecture or sensitive operational data.
 
 ## Current Opportunity Fit
 
@@ -87,5 +88,9 @@ Open to national and international opportunities involving Cybersecurity, Securi
 - [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md)
 - [LinkedIn and CV Text](LINKEDIN-TEXT.md)
 - [Final Profile Validation](PROFILE-FINAL-VALIDATION.md)
+
+## Next Step for the Portfolio Repository
+
+Pin the main repository named `cybersecurity-ai-technology-portfolio` so recruiters can open the full project set directly from the profile.
 
 **Building secure, scalable and well-governed technology solutions.**
