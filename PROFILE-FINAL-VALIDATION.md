@@ -2,15 +2,17 @@
 
 ## Executive Summary
 
-The public recruiter-ready portfolio repository `IgorBenacchio/Igciber` was reviewed, rebuilt and expanded for recruiter access. It now contains a professional README, portfolio summary, recruiter validation guide, recruiter checklist, LinkedIn/CV text, benchmark notes, project catalog, skills matrix, case studies, interview guide and reusable security templates.
+The official public portfolio repository is `IgorBenacchio/Igciber`.
+
+The repository was reviewed, rebuilt and expanded for recruiter access. It now contains a professional README, portfolio summary, recruiter validation guide, recruiter checklist, LinkedIn/CV text, benchmark notes, project catalog, skills matrix, case studies, interview guide and reusable security templates.
 
 The repository is structured for recruiters, hiring managers and technical interviewers evaluating Igor Benacchio for opportunities in Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, SOC, AI Governance, Secure AI, Secure MLOps, Data Governance, Technology Architecture and Automation.
 
-Recommended recruiter-ready repository link:
+Official recruiter-ready portfolio link:
 
 https://github.com/IgorBenacchio/Igciber
 
-Recommended GitHub account link:
+Official GitHub account link:
 
 https://github.com/IgorBenacchio
 
@@ -36,17 +38,17 @@ https://github.com/IgorBenacchio
 
 ---
 
-## Important GitHub Profile README Note
+## GitHub Profile Note
 
 Current GitHub account: `IgorBenacchio`
 
-Current public recruiter-ready repository: `IgorBenacchio/Igciber`
+Official public portfolio repository: `IgorBenacchio/Igciber`
 
-For the README to appear automatically at the top of the GitHub account profile, GitHub requires a public repository named exactly `IgorBenacchio`. Since the current recruiter-ready repository is named `Igciber`, the strongest immediate recruiter link is:
+Use this repository as the main portfolio link for recruiters:
 
 https://github.com/IgorBenacchio/Igciber
 
-A manual action guide is available in `PROFILE-README-ACTION-REQUIRED.md`.
+Optional: if you want the same README to appear automatically at the top of the GitHub account profile page, GitHub requires a special public repository named exactly `IgorBenacchio`. This is optional and does not change the official portfolio repository.
 
 ---
 
@@ -65,8 +67,7 @@ A manual action guide is available in `PROFILE-README-ACTION-REQUIRED.md`.
 | Seniority signals | Added |
 | Public safety statement | Added |
 | Profile document links | Added |
-| Current public repository link corrected | Added |
-| GitHub Profile README action guide | Added |
+| Official portfolio link standardized as `IgorBenacchio/Igciber` | Added |
 
 ---
 
@@ -90,23 +91,16 @@ A manual action guide is available in `PROFILE-README-ACTION-REQUIRED.md`.
 
 ## Remaining Manual Actions
 
-1. Create a public GitHub Profile README repository named exactly `IgorBenacchio`, or rename/copy content if appropriate.
-2. Copy the current `README.md` content into the `IgorBenacchio` repository root.
-3. Pin the current portfolio repository `IgorBenacchio/Igciber` on the GitHub profile.
-4. Add the recruiter-ready portfolio link to LinkedIn and CV.
-5. Review the rendered GitHub page visually.
+1. Pin the official portfolio repository `IgorBenacchio/Igciber` on the GitHub profile.
+2. Add the official portfolio link to LinkedIn and CV.
+3. Review the rendered GitHub page visually.
+4. Optional: create the special profile README repository `IgorBenacchio/IgorBenacchio` if you want this README rendered directly on the profile homepage.
 
 ---
 
 ## Recommended GitHub Bio
 
 Cybersecurity, AI Governance, Cloud Security, DevSecOps, IAM, AppSec, GRC, Technology Architecture and Automation.
-
----
-
-## Recommended Future Portfolio Repository Name
-
-`cybersecurity-ai-technology-portfolio`
 
 ---
 
@@ -118,10 +112,8 @@ Professional portfolio covering Cybersecurity Architecture, AI Governance, Cloud
 
 ## Final Verdict
 
-The public repository `IgorBenacchio/Igciber` is ready for recruiter validation. It now includes the key assets expected from a strong cybersecurity portfolio: a clear README, project catalog, skills matrix, case studies, templates, interview guide, validation checklist and security review.
+The official public portfolio repository `IgorBenacchio/Igciber` is ready for recruiter validation. It includes the key assets expected from a strong cybersecurity portfolio: a clear README, project catalog, skills matrix, case studies, templates, interview guide, validation checklist and security review.
 
-For immediate recruiter use, send:
+For recruiter use, send:
 
 https://github.com/IgorBenacchio/Igciber
-
-For full GitHub Profile README rendering, complete the manual action described in `PROFILE-README-ACTION-REQUIRED.md`.
