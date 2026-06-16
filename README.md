@@ -4,7 +4,7 @@
 
 ### Cybersecurity | Security Architecture | Cloud Security | DevSecOps | IAM | AppSec | GRC | SOC | AI Security | AI Governance | Secure AI | Secure MLOps | Data Governance | Technology Architecture | Automation
 
-[![GitHub](https://img.shields.io/badge/GitHub-Igciber-181717?style=for-the-badge&logo=github)](https://github.com/Igciber)
+[![GitHub](https://img.shields.io/badge/GitHub-IgorBenacchio-181717?style=for-the-badge&logo=github)](https://github.com/IgorBenacchio)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Overview-0A66C2?style=for-the-badge)](PORTFOLIO.md)
 [![Recruiter](https://img.shields.io/badge/Recruiter-5_Minute_Validation-2E7D32?style=for-the-badge)](RECRUITER-VALIDATION.md)
 [![Status](https://img.shields.io/badge/Profile-Recruiter_Ready-success?style=for-the-badge)](PROFILE-FINAL-VALIDATION.md)
@@ -29,7 +29,7 @@ If you are a recruiter, hiring manager or technical interviewer, start here:
 | [Recruiter Outreach](RECRUITER-OUTREACH.md) | Messages in Portuguese and English |
 | [Final Profile Validation](PROFILE-FINAL-VALIDATION.md) | Final validation report |
 
-Public profile and portfolio hub: [https://github.com/Igciber](https://github.com/Igciber)
+Public profile and portfolio hub: [https://github.com/IgorBenacchio](https://github.com/IgorBenacchio)
 
 ---
 
