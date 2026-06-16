@@ -1,17 +1,19 @@
-# GitHub Profile Publication Checklist
+# GitHub Profile and Portfolio Publication Checklist
 
-## Repository status
+## Current status
 
 | Item | Status |
 |---|---|
-| Repository name is `Igciber` | Done |
+| Current GitHub account is `IgorBenacchio` | Done |
+| Current public recruiter-ready repository is `IgorBenacchio/Igciber` | Done |
 | Repository is public | Done |
 | README.md exists in the root | Done |
 | README.md is not empty | Done |
-| Profile content is recruiter-oriented | Done |
+| Portfolio content is recruiter-oriented | Done |
 | English content is professional | Done |
 | Portuguese section is included | Done |
-| Main GitHub link is included | Done |
+| Current GitHub account link is included | Done |
+| Current portfolio repository link is included | Done |
 | Content is suitable for public review | Done |
 
 ---
@@ -25,21 +27,43 @@
 | Portfolio areas are summarized | Done |
 | Experience highlights are included | Done |
 | Tools and frameworks are grouped | Done |
-| Current career interests are included | Done |
+| Career interests are included | Done |
 | Recruiter quick validation section is included | Done |
+| 5-minute validation path is included | Done |
+| LinkedIn/CV text points to the current profile | Done |
+| Recruiter outreach text points to the current profile | Done |
+
+---
+
+## Important Profile README action
+
+For the README to appear automatically at the top of the GitHub account page `https://github.com/IgorBenacchio`, GitHub requires a public repository named exactly:
+
+`IgorBenacchio`
+
+Current portfolio repository:
+
+`IgorBenacchio/Igciber`
+
+This repository is valid and public as a recruiter-ready portfolio, but the automatic GitHub Profile README still requires the special repository name above.
 
 ---
 
 ## Manual next steps
 
-1. Open `https://github.com/Igciber`.
-2. Confirm that the profile README appears on the GitHub profile page.
-3. Add your real LinkedIn URL if desired.
-4. Pin the most relevant repositories in the GitHub profile.
-5. Share the profile link with recruiters.
+1. Open `https://github.com/IgorBenacchio/Igciber` and confirm the repository renders correctly.
+2. Create a public repository named `IgorBenacchio` if you want the README to appear directly on `https://github.com/IgorBenacchio`.
+3. Copy the current `README.md` into the new `IgorBenacchio/IgorBenacchio` repository.
+4. Pin `IgorBenacchio/Igciber` on the GitHub profile.
+5. Add the recruiter-ready portfolio link to LinkedIn and CV.
+6. Share the portfolio link with recruiters.
 
 ---
 
 ## Recommended recruiter link
 
-https://github.com/Igciber
+https://github.com/IgorBenacchio/Igciber
+
+## Recommended GitHub profile link
+
+https://github.com/IgorBenacchio
