@@ -4,11 +4,13 @@
 
 Olá, tudo bem?
 
-Compartilho meu perfil profissional no GitHub, onde organizei minhas principais áreas de atuação em Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, AI Governance, Data Governance, Technology Architecture e Automation.
+Compartilho meu portfólio profissional no GitHub, onde organizei minhas principais áreas de atuação em Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, AI Governance, Data Governance, Technology Architecture e Automation.
 
-Link: https://github.com/Igciber
+Link do portfólio para validação: https://github.com/IgorBenacchio/Igciber
 
-O perfil inclui uma visão rápida para recrutadores, portfólio por área de atuação, frameworks, highlights de experiência e guia de validação.
+Perfil GitHub: https://github.com/IgorBenacchio
+
+O material inclui uma visão rápida para recrutadores, portfólio por área de atuação, frameworks, highlights de experiência e guia de validação.
 
 Fico à disposição para conversar sobre oportunidades alinhadas ao meu perfil.
 
@@ -18,11 +20,13 @@ Fico à disposição para conversar sobre oportunidades alinhadas ao meu perfil.
 
 Hi, I hope you are doing well.
 
-I am sharing my professional GitHub profile, where I organized my main focus areas in Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, AI Governance, Data Governance, Technology Architecture and Automation.
+I am sharing my professional GitHub portfolio, where I organized my main focus areas in Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, AI Governance, Data Governance, Technology Architecture and Automation.
 
-Link: https://github.com/Igciber
+Recruiter-ready portfolio link: https://github.com/IgorBenacchio/Igciber
 
-The profile includes a recruiter quick access section, portfolio areas, frameworks, experience highlights and a validation guide.
+GitHub profile: https://github.com/IgorBenacchio
+
+The material includes a recruiter quick access section, portfolio areas, frameworks, experience highlights and a validation guide.
 
 I would be glad to discuss opportunities aligned with my background.
 
@@ -30,5 +34,6 @@ I would be glad to discuss opportunities aligned with my background.
 
 ## Short CV text
 
-GitHub: https://github.com/Igciber  
+GitHub portfolio: https://github.com/IgorBenacchio/Igciber  
+GitHub profile: https://github.com/IgorBenacchio  
 Professional profile and portfolio focused on Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, AI Governance, Data Governance, Technology Architecture and Automation.
