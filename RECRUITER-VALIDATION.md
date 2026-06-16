@@ -1,47 +1,42 @@
 # Recruiter Validation Guide
 
-## Quick summary
+## Quick Summary
 
-This profile is ready for recruiter review and is structured to validate Igor Benacchio for cybersecurity, cloud, DevSecOps, IAM, AppSec, GRC, AI governance, data governance, technology architecture and automation roles.
+This profile is ready for recruiter review and is structured to validate Igor Benacchio for cybersecurity, cloud security, DevSecOps, IAM, AppSec, GRC, SOC, AI governance, AI security, data governance, technology architecture and automation roles.
 
----
+## 5-Minute Validation Path
 
-## 5-minute validation path
+| Time | Action | What to validate |
+| --- | --- | --- |
+| 30 sec | Read the GitHub profile README | Positioning, domains and role fit |
+| 1 min | Review the Portfolio Summary | Coverage across cybersecurity, cloud, AI and architecture |
+| 2 min | Match target role to project areas | Depth and practical evidence |
+| 1 min | Review public safety statement | Sanitized, defensive and no confidential data |
+| 30 sec | Check final validation | Publication readiness and recruiter fit |
 
-1. Open the main GitHub profile: https://github.com/Igciber
-2. Read the headline and About section.
-3. Review the Professional Focus list.
-4. Open `PORTFOLIO.md` and match modules with the job description.
-5. Review Experience Highlights and Tools, Frameworks and Domains.
+## Role Mapping
 
----
+| Role type | Strong evidence |
+| --- | --- |
+| Security Architect | Security by Design, enterprise architecture, cloud landing zone |
+| Cloud Security Specialist | Azure landing zone, IAM, logging, segmentation and governance |
+| DevSecOps Engineer | Pipeline security, scanning, quality gates and evidence flow |
+| IAM Specialist | RBAC, JML, least privilege and access reviews |
+| AppSec Specialist | API security checklist and secure design requirements |
+| GRC Specialist | Risk dashboard, control mapping and executive reporting |
+| SOC / SecOps Analyst | Incident response playbooks and monitoring concepts |
+| AI Governance Specialist | AI inventory, impact assessment and responsible AI policy |
+| AI Security Specialist | Secure RAG, threat model and defensive evaluation matrix |
+| Technology Architect | Architecture decision records, domain mapping and data governance |
+| Automation Specialist | Python and PowerShell examples with safe fictional data |
 
-## What to validate by role
+## What Demonstrates Seniority
 
-| Role | Validate these areas |
-|---|---|
-| Security Architect | Security by Design, Cloud Security, IAM, AppSec, GRC |
-| Cloud Security Specialist | Azure Security, IAM, monitoring and architecture governance |
-| DevSecOps Engineer | Secure SDLC, automated checks, remediation workflow and scripting |
-| IAM Specialist | RBAC, MFA, access review, lifecycle and least privilege |
-| AppSec Specialist | API security, secure design, authentication and authorization |
-| GRC Specialist | Control mapping, evidence, reporting and compliance alignment |
-| AI Governance Specialist | AI inventory, responsible adoption and model governance |
-| Technology Architect | Cloud, data, applications, infrastructure and operations |
-| Data Governance Specialist | Classification, ownership, quality and analytics controls |
+- The portfolio connects technical controls to business risk.
+- It uses architecture, governance, evidence and communication, not just tool names.
+- It is structured for both technical and non-technical reviewers.
+- It includes public-safe examples suitable for real recruiter review.
 
----
+## Safety Review
 
-## Seniority indicators
-
-- Ability to connect technical security with business and governance.
-- Experience across financial services, telecommunications, consulting and corporate technology environments.
-- Broad view across architecture, cloud, identity, applications, operations and compliance.
-- Documentation suitable for technical and executive stakeholders.
-- Modern portfolio coverage including AI governance and secure technology adoption.
-
----
-
-## Public review note
-
-The profile and portfolio are prepared for public professional review and contain only sanitized professional information.
+The material is defensive, sanitized and fictional. It does not expose credentials, tokens, real IPs, confidential company information or internal architecture.
