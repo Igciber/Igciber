@@ -17,30 +17,19 @@
 
 ## Recruiter Quick Access
 
-If you are a recruiter, hiring manager or technical interviewer, start here:
-
 | Start here | Purpose |
 |---|---|
+| [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md) | One-page positioning for international opportunities |
+| [Project Catalog](PROJECTS.md) | 16 recruiter-ready project concepts by domain |
+| [Skills Evidence Matrix](SKILLS-EVIDENCE-MATRIX.md) | Skills mapped to evidence and target roles |
+| [Case Studies](CASE-STUDIES.md) | Senior-level narratives for architecture, cloud, DevSecOps, IAM, GRC and AI security |
+| [Interview Guide](INTERVIEW-GUIDE.md) | Technical recruiter questions and scoring signals |
 | [Portfolio Overview](PORTFOLIO.md) | Complete view of cybersecurity, AI governance and technology architecture areas |
-| [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md) | One-page positioning for international and multinational opportunities |
 | [Recruiter Validation Guide](RECRUITER-VALIDATION.md) | 5-minute validation path by target role |
-| [Recruiter Guide](RECRUITER-GUIDE.md) | Short review guide for recruiters |
-| [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md) | Profile readiness checklist |
-| [Recruiter Outreach](RECRUITER-OUTREACH.md) | Messages in Portuguese and English |
-| [Final Profile Validation](PROFILE-FINAL-VALIDATION.md) | Final validation report |
+| [Templates](templates/SECURITY-OPINION-TEMPLATE.md) | Security opinion, AI assessment and ADR templates |
 
 Public GitHub account: [https://github.com/IgorBenacchio](https://github.com/IgorBenacchio)  
 Public recruiter-ready portfolio repository: [https://github.com/IgorBenacchio/Igciber](https://github.com/IgorBenacchio/Igciber)
-
----
-
-## About me
-
-I am an Information Security and Technology professional focused on designing secure, scalable and well-governed technology solutions. My background combines cybersecurity architecture, cloud security, DevSecOps, IAM, AppSec, GRC, infrastructure security, risk management and secure technology adoption.
-
-I have worked across corporate, financial services, telecommunications and consulting environments, supporting security assessments, architecture decisions, vulnerability management, audit evidence, third-party risk, IAM governance and executive-level security communication.
-
-Sou profissional de tecnologia e segurança da informação com foco em conectar risco, arquitetura, governança e entrega tecnológica para ambientes corporativos, financeiros, telecom e consultoria.
 
 ---
 
@@ -69,34 +58,7 @@ Sou profissional de tecnologia e segurança da informação com foco em conectar
 
 ---
 
-## 5-Minute Validation Path
-
-| Time | What to open | What to validate |
-|---|---|---|
-| 30 sec | This README | Positioning, target roles and international fit |
-| 1 min | [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md) | One-page fit for international opportunities |
-| 1 min | [Portfolio Overview](PORTFOLIO.md) | Skills mapped to portfolio evidence |
-| 1 min | [Recruiter Validation Guide](RECRUITER-VALIDATION.md) | Role fit and seniority signals |
-| 1 min | [Final Profile Validation](PROFILE-FINAL-VALIDATION.md) | Publication status and recruiter-readiness |
-
----
-
-## Target Roles
-
-| Track | Roles |
-|---|---|
-| Cybersecurity Architecture | Security Architect, Cybersecurity Specialist, Security Consultant |
-| Cloud Security | Cloud Security Specialist, Azure Security Specialist, Cloud Security Architect |
-| DevSecOps / AppSec | DevSecOps Engineer, AppSec Specialist, Secure SDLC Specialist |
-| IAM / Zero Trust | IAM Specialist, Identity Governance Specialist, Zero Trust Analyst |
-| GRC / Risk / Compliance | GRC Analyst, Risk and Compliance Specialist, Security Governance Specialist |
-| SOC / SecOps | SOC Analyst, Incident Response Analyst, Security Operations Specialist |
-| AI Governance | AI Governance Analyst, Responsible AI Specialist, AI Risk Specialist |
-| Technology and Data | Technology Architect, Data Governance Specialist, Automation Specialist |
-
----
-
-## Best Portfolio Modules to Review First
+## Featured Portfolio Modules
 
 | Hiring for | Start with these modules |
 |---|---|
@@ -142,7 +104,7 @@ Sou profissional de tecnologia e segurança da informação com foco em conectar
 
 Experience connected to financial services, telecom, consulting, infrastructure, IAM, cloud, DevSecOps, AppSec, GRC and security architecture, including contexts related to Sinqia / BNP Paribas, Aquanima / Santander, Telefonica Vivo and Compass UOL.
 
-Public materials are intentionally sanitized and designed for professional review.
+Public materials are intentionally sanitized and designed for professional review. They do not include credentials, tokens, real IPs, internal architecture or confidential company information.
 
 ---
 
@@ -155,6 +117,10 @@ Perfil voltado para oportunidades nacionais e internacionais em Cybersecurity, S
 ## Profile Documents
 
 - [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md)
+- [Project Catalog](PROJECTS.md)
+- [Skills Evidence Matrix](SKILLS-EVIDENCE-MATRIX.md)
+- [Case Studies](CASE-STUDIES.md)
+- [Interview Guide](INTERVIEW-GUIDE.md)
 - [Portfolio Overview](PORTFOLIO.md)
 - [Recruiter Validation Guide](RECRUITER-VALIDATION.md)
 - [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md)
@@ -162,7 +128,7 @@ Perfil voltado para oportunidades nacionais e internacionais em Cybersecurity, S
 - [Recruiter Outreach](RECRUITER-OUTREACH.md)
 - [Final Profile Validation](PROFILE-FINAL-VALIDATION.md)
 - [Profile Benchmark Notes](PROFILE-BENCHMARK-NOTES.md)
-- [Profile README Action Required](PROFILE-README-ACTION-REQUIRED.md)
+- [GitHub Account Security Review](GITHUB-ACCOUNT-SECURITY-REVIEW.md)
 
 <div align="center">
 
