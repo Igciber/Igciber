@@ -2,11 +2,13 @@
 
 ## Purpose
 
-This portfolio is designed to help recruiters, hiring managers and technical interviewers validate Igor Benacchio's professional fit for cybersecurity, security architecture, cloud security, DevSecOps, IAM, AppSec, GRC, SOC, AI security, AI governance, technology architecture, data governance and automation roles.
+This portfolio is designed to help recruiters, hiring managers and technical interviewers validate Igor Benacchio's professional fit for cybersecurity, security architecture, cloud security, DevSecOps, IAM, AppSec, GRC, SOC, AI security, AI governance, secure LLM/RAG, secure MLOps, technology architecture, data governance and automation roles.
 
-## Positioning
+## International Positioning
 
-Igor connects risk, architecture, governance and technology delivery through defensive security practices, enterprise-ready documentation, automation and public-safe portfolio evidence.
+Igor connects business risk, security architecture, governance and technology delivery through defensive security practices, enterprise-ready documentation, automation and responsible AI controls.
+
+The portfolio is designed for multinational evaluation: English-first positioning, role-based evidence, clear recruiter navigation, public-safe examples and alignment with global cybersecurity terminology.
 
 ## Portfolio Evidence
 
@@ -24,6 +26,10 @@ Igor connects risk, architecture, governance and technology delivery through def
 | Secure MLOps | Model lifecycle, validation, monitoring and governance controls |
 | Data Governance | Classification, ownership, quality and analytics security |
 | Automation | Python and PowerShell examples with fictional data |
+
+## ATS and Recruiter Keywords
+
+Cybersecurity, Security Architecture, Cloud Security, Azure Security, DevSecOps, Secure SDLC, IAM, Zero Trust, AppSec, API Security, GRC, Risk Management, Compliance, SOC, Incident Response, AI Security, AI Governance, Responsible AI, Secure RAG, LLM Security, Secure MLOps, Data Governance, Technology Architecture, Automation, Python, PowerShell.
 
 ## Recruiter Value
 
