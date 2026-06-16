@@ -2,28 +2,42 @@
 
 **Cybersecurity | Security Architecture | Cloud Security | DevSecOps | IAM | AppSec | GRC | SOC | AI Security | AI Governance | Secure LLM/RAG | Secure MLOps | Data Governance | Technology Architecture | Automation**
 
-I connect risk, architecture, governance and technology delivery through defensive security practices, enterprise-ready documentation, automation and responsible AI controls.
+I connect business risk, security architecture, governance and technology delivery through defensive security practices, enterprise-ready documentation, automation and responsible AI controls.
 
 Sou profissional de tecnologia e segurança da informação com foco em conectar risco, arquitetura, governança e entrega tecnológica. Atuo com segurança defensiva, arquitetura corporativa, cloud security, identidade, entrega segura, IA responsável e automação.
 
-## Recruiter Snapshot
+## International Recruiter Snapshot
 
-| Question | Fast answer |
+| Recruiter question | Fast answer |
 | --- | --- |
-| What do I do? | Cybersecurity, architecture, governance, cloud, IAM, AppSec, AI security and automation |
-| What kind of evidence is here? | Public-safe portfolio structure, recruiter guides, role mapping and validation checklist |
-| What roles does this support? | Security Architect, Cloud Security, DevSecOps, IAM, AppSec, GRC, SOC, AI Governance and Technology Architecture |
-| Is it safe to review publicly? | Yes. Content is defensive, fictional/sanitized and free from confidential data or credentials |
+| What roles does this profile support? | Security Architect, Cloud Security Specialist, DevSecOps, IAM, AppSec, GRC, SOC, AI Security, AI Governance, Data Governance, Technology Architect and Automation roles |
+| What makes the profile different? | It translates security and technology experience into recruiter-validatable evidence, not only keywords |
+| Is the material enterprise-ready? | Yes. It emphasizes governance, risk, controls, evidence, architecture and executive communication |
+| Is the content safe for public review? | Yes. It is defensive, sanitized and free from confidential data, credentials, real IPs or internal company information |
+| Is it suitable for multinational opportunities? | Yes. The profile is English-first, role-mapped and aligned with global cybersecurity and AI governance terminology |
 
 ## 5-Minute Validation Path
 
 | Time | What to open | What to validate |
 | --- | --- | --- |
-| 30 sec | This README | Positioning and target domains |
+| 30 sec | This README | Positioning, target roles and international fit |
 | 1 min | [Portfolio Summary](PORTFOLIO.md) | Skills mapped to portfolio evidence |
 | 1 min | [Recruiter Validation Guide](RECRUITER-VALIDATION.md) | Role fit and seniority signals |
 | 1 min | [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md) | Public-readiness and recruiter checklist |
-| 1 min | Pinned portfolio repository | Project READMEs, templates, matrices and defensive examples |
+| 1 min | Pinned portfolio repository | Project READMEs, templates, matrices, playbooks and defensive examples |
+
+## Target Roles
+
+| Track | Roles |
+| --- | --- |
+| Cybersecurity Architecture | Security Architect, Cybersecurity Specialist, Security Consultant |
+| Cloud Security | Cloud Security Specialist, Azure Security Specialist, Cloud Security Architect |
+| DevSecOps / AppSec | DevSecOps Engineer, AppSec Specialist, Secure SDLC Specialist |
+| IAM / Zero Trust | IAM Specialist, Identity Governance Specialist, Zero Trust Analyst |
+| GRC / Risk / Compliance | GRC Analyst, Risk and Compliance Specialist, Security Governance Specialist |
+| SOC / SecOps | SOC Analyst, Incident Response Analyst, Security Operations Specialist |
+| AI Security / AI Governance | AI Security Specialist, AI Governance Analyst, Responsible AI Specialist |
+| Technology and Data | Technology Architect, Data Governance Specialist, Automation Specialist |
 
 ## Portfolio Evidence by Domain
 
@@ -65,6 +79,17 @@ Sou profissional de tecnologia e segurança da informação com foco em conectar
 | Security delivery | Ability to embed security into pipelines, APIs, cloud and IAM processes |
 | AI security awareness | Ability to govern and secure LLM/RAG and model lifecycle scenarios |
 | Executive communication | Ability to explain technical risk clearly to non-technical stakeholders |
+| International readiness | Ability to communicate experience in English with global security terminology |
+
+## Frameworks and Topics
+
+| Category | Keywords |
+| --- | --- |
+| Security and Governance | ISO 27001, NIST CSF, CIS Controls, OWASP, Zero Trust, risk management, control evidence |
+| Cloud and Microsoft Security | Azure, landing zone, RBAC, Conditional Access, Key Vault, logging, monitoring, policy |
+| DevSecOps and AppSec | Secure SDLC, SAST, SCA, secret scanning, API security, OAuth2, OIDC, JWT, CI/CD |
+| AI Security and Governance | NIST AI RMF, Responsible AI, secure RAG, LLM risk, model card, AI monitoring, secure MLOps |
+| Data and Automation | Data classification, data quality, analytics security, Python, PowerShell, reporting automation |
 
 ## Professional Context
 
@@ -77,9 +102,9 @@ Experience connected to financial services, telecom, consulting, infrastructure,
 
 Public materials are intentionally sanitized. They do not include confidential company information, credentials, tokens, private IPs, internal architecture or sensitive operational data.
 
-## Current Opportunity Fit
+## Portuguese Summary
 
-Open to national and international opportunities involving Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, SOC, AI Security, AI Governance, Secure LLM/RAG, Secure MLOps, Data Governance, Technology Architecture and Automation.
+Perfil voltado para oportunidades nacionais e internacionais em Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, SOC, AI Security, AI Governance, Data Governance, Technology Architecture e Automation. O material público é defensivo, sanitizado e estruturado para validação por recrutadores.
 
 ## Profile Documents
 
@@ -88,6 +113,7 @@ Open to national and international opportunities involving Cybersecurity, Securi
 - [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md)
 - [LinkedIn and CV Text](LINKEDIN-TEXT.md)
 - [Final Profile Validation](PROFILE-FINAL-VALIDATION.md)
+- [Profile Benchmark Notes](PROFILE-BENCHMARK-NOTES.md)
 
 ## Next Step for the Portfolio Repository
 
