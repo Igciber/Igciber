@@ -8,6 +8,21 @@ I have worked across corporate, financial services, telecommunications and consu
 
 ---
 
+## Recruiter Quick Access
+
+If you are a recruiter, hiring manager or technical interviewer, start here:
+
+- [Portfolio Overview](PORTFOLIO.md)
+- [Recruiter Validation Guide](RECRUITER-VALIDATION.md)
+- [Recruiter Guide](RECRUITER-GUIDE.md)
+- [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md)
+- [LinkedIn and CV Text](LINKEDIN-TEXT.md)
+- [Final Profile Validation](PROFILE-FINAL-VALIDATION.md)
+
+Public profile link: [https://github.com/Igciber](https://github.com/Igciber)
+
+---
+
 ## Professional Focus
 
 - Security Architecture and Security by Design
@@ -110,18 +125,19 @@ If you are a recruiter or hiring manager, this profile demonstrates practical al
 
 Recommended validation path:
 
-1. Review the professional focus section.
-2. Review the portfolio areas listed above.
-3. Match the experience highlights with the target role.
-4. Validate the frameworks and domains against the job requirements.
-5. Contact me through LinkedIn or GitHub for more details.
+1. Review the Professional Focus section.
+2. Open the [Portfolio Overview](PORTFOLIO.md).
+3. Match the modules with the target role.
+4. Review the Experience Highlights section.
+5. Validate the frameworks and domains against the job requirements.
 
 ---
 
 ## Links
 
 - GitHub: [github.com/Igciber](https://github.com/Igciber)
-- Main Portfolio: [Cybersecurity, AI & Technology Architecture Portfolio](https://github.com/Igciber/Igciber)
+- Portfolio Overview: [PORTFOLIO.md](PORTFOLIO.md)
+- Recruiter Validation: [RECRUITER-VALIDATION.md](RECRUITER-VALIDATION.md)
 
 ---
 
