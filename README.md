@@ -5,9 +5,9 @@
 ### Cybersecurity | Security Architecture | Cloud Security | DevSecOps | IAM | AppSec | GRC | SOC | AI Security | AI Governance | Secure AI | Secure MLOps | Data Governance | Technology Architecture | Automation
 
 [![GitHub](https://img.shields.io/badge/GitHub-IgorBenacchio-181717?style=for-the-badge&logo=github)](https://github.com/IgorBenacchio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Overview-0A66C2?style=for-the-badge)](PORTFOLIO.md)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Repository-0A66C2?style=for-the-badge)](https://github.com/IgorBenacchio/Igciber)
 [![Recruiter](https://img.shields.io/badge/Recruiter-5_Minute_Validation-2E7D32?style=for-the-badge)](RECRUITER-VALIDATION.md)
-[![Status](https://img.shields.io/badge/Profile-Recruiter_Ready-success?style=for-the-badge)](PROFILE-FINAL-VALIDATION.md)
+[![Status](https://img.shields.io/badge/Portfolio-Recruiter_Ready-success?style=for-the-badge)](PROFILE-FINAL-VALIDATION.md)
 
 **I connect business risk, security architecture, governance and technology delivery through defensive security practices, enterprise-ready documentation, automation and responsible AI controls.**
 
@@ -29,7 +29,8 @@ If you are a recruiter, hiring manager or technical interviewer, start here:
 | [Recruiter Outreach](RECRUITER-OUTREACH.md) | Messages in Portuguese and English |
 | [Final Profile Validation](PROFILE-FINAL-VALIDATION.md) | Final validation report |
 
-Public profile and portfolio hub: [https://github.com/IgorBenacchio](https://github.com/IgorBenacchio)
+Public GitHub account: [https://github.com/IgorBenacchio](https://github.com/IgorBenacchio)  
+Public recruiter-ready portfolio repository: [https://github.com/IgorBenacchio/Igciber](https://github.com/IgorBenacchio/Igciber)
 
 ---
 
@@ -76,7 +77,7 @@ Sou profissional de tecnologia e segurança da informação com foco em conectar
 | 1 min | [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md) | One-page fit for international opportunities |
 | 1 min | [Portfolio Overview](PORTFOLIO.md) | Skills mapped to portfolio evidence |
 | 1 min | [Recruiter Validation Guide](RECRUITER-VALIDATION.md) | Role fit and seniority signals |
-| 1 min | [Profile Final Validation](PROFILE-FINAL-VALIDATION.md) | Publication status and recruiter-readiness |
+| 1 min | [Final Profile Validation](PROFILE-FINAL-VALIDATION.md) | Publication status and recruiter-readiness |
 
 ---
 
@@ -161,6 +162,7 @@ Perfil voltado para oportunidades nacionais e internacionais em Cybersecurity, S
 - [Recruiter Outreach](RECRUITER-OUTREACH.md)
 - [Final Profile Validation](PROFILE-FINAL-VALIDATION.md)
 - [Profile Benchmark Notes](PROFILE-BENCHMARK-NOTES.md)
+- [Profile README Action Required](PROFILE-README-ACTION-REQUIRED.md)
 
 <div align="center">
 
