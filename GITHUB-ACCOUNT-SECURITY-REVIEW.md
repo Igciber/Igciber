@@ -9,8 +9,8 @@ This review covers what can be checked through the available GitHub integration 
 | Item | Finding | Risk | Recommendation |
 | --- | --- | --- | --- |
 | Connected account | The connected account appears as `IgorBenacchio` | Low | Use `IgorBenacchio` consistently in public links |
-| Visible repository | `IgorBenacchio/Igciber` is public | Low | Keep public only if content is intentional and sanitized |
-| Profile README rendering | Repository is named `Igciber`, not `IgorBenacchio` | Medium | For automatic GitHub profile README rendering, create or rename a public repository to `IgorBenacchio/IgorBenacchio` |
+| Official portfolio repository | `IgorBenacchio/Igciber` is public | Low | Use this as the official portfolio link |
+| Profile README rendering | Repository is named `Igciber`, not `IgorBenacchio` | Low | Optional: create `IgorBenacchio/IgorBenacchio` only if you want automatic profile README rendering |
 | Organizations | No organizations found via connector | Low | No org membership risk identified via available access |
 | GitHub App installation | GitHub app is installed on the user account | Medium | Review installed app permissions in GitHub settings periodically |
 | Secret scan via repository search | No obvious credential keyword hits found in accessible repository search | Low | Still enable GitHub secret scanning/push protection where available |
@@ -18,15 +18,11 @@ This review covers what can be checked through the available GitHub integration 
 
 ## Public Information Review
 
-The public repository material is aligned with recruiter validation for cybersecurity, cloud security, DevSecOps, IAM, AppSec, GRC, SOC, AI governance, technology architecture and automation. Public content is defensive and sanitized.
-
-Current recruiter-ready repository:
+The official portfolio repository is:
 
 `https://github.com/IgorBenacchio/Igciber`
 
-Current GitHub account:
-
-`https://github.com/IgorBenacchio`
+The public repository material is aligned with recruiter validation for cybersecurity, cloud security, DevSecOps, IAM, AppSec, GRC, SOC, AI governance, technology architecture and automation. Public content is defensive and sanitized.
 
 ## Manual Security Checklist
 
@@ -71,28 +67,22 @@ Review these settings directly in GitHub:
 - [ ] Enable Dependabot alerts where applicable.
 - [ ] Enable secret scanning/push protection where available.
 - [ ] Keep only intentional repositories public.
-- [ ] Remove empty or test repositories from public view if they do not help recruiters.
 - [ ] Pin only professional repositories.
 
 ### Recruiter Presentation
 
-- [ ] Create or rename the GitHub Profile README repository as `IgorBenacchio/IgorBenacchio` if you want this README to appear automatically on the account profile page.
-- [ ] Pin the current recruiter-ready repository `IgorBenacchio/Igciber` on the GitHub profile.
-- [ ] If you create a dedicated full portfolio repository later, use `cybersecurity-ai-technology-portfolio`.
-- [ ] Ensure all public links use `IgorBenacchio` consistently.
+- [ ] Pin the official portfolio repository `IgorBenacchio/Igciber` on the GitHub profile.
+- [ ] Use `https://github.com/IgorBenacchio/Igciber` consistently on LinkedIn and CV.
+- [ ] Optional: create `IgorBenacchio/IgorBenacchio` if you want an automatic GitHub profile README.
 
 ## Recommended Account Bio
 
 Cybersecurity, AI Governance, Cloud Security, DevSecOps, IAM, AppSec, GRC, Technology Architecture and Automation.
 
-## Recommended Public Recruiter Link
+## Official Public Portfolio Link
 
 `https://github.com/IgorBenacchio/Igciber`
 
-## Recommended Future Portfolio Repository
-
-`cybersecurity-ai-technology-portfolio`
-
 ## Final Security Verdict
 
-No exposed secrets were identified through the available repository search. The main remaining improvement is account hygiene review in GitHub settings and GitHub Profile README rendering: create or rename the special profile repository to `IgorBenacchio/IgorBenacchio` if you want this content to appear automatically at the top of the GitHub profile.
+No exposed secrets were identified through the available repository search. The public portfolio repository `IgorBenacchio/Igciber` is suitable for recruiter review. The remaining account-security items must be reviewed manually in GitHub settings because sensitive account settings are not exposed through the available connector.
